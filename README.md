@@ -24,5 +24,5 @@ HTML / CSS / Responsivo / JavaScript / Animações / Hospedagem
 
 * HTML
 * CSS
-* JavaScript 
+* JavaScript </br>
 https://adrianoardev.github.io/Origamid-Bikcraft/
