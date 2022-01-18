@@ -24,4 +24,4 @@ HTML / CSS / Responsivo / JavaScript / Animações / Hospedagem
 
 * HTML
 * CSS
-* JavaScript
+* JavaScript 
