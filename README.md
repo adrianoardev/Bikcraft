@@ -20,8 +20,10 @@ Código / HTML / CSS
 5. Código do Projeto <br>
 HTML / CSS / Responsivo / JavaScript / Animações / Hospedagem
 
-6. Link do projeto finalizado <br>
-https://adrianoardev.github.io/Origamid-Bikcraft/ <br>
+- <strong>Imagem do Projeto </strong> - <a href="https://adrianoardev.github.io/Origamid-Bikcraft/">Link do projeto</a> <br>
+ <div align="left">    
+  <img src=https://user-images.githubusercontent.com/86697578/163280301-ec67dae7-518f-4f4c-a963-666e5b1500da.png width="700px" />    
+ </div>
 
 ## Tecnologias utilizadas
 
